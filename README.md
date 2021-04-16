@@ -1,5 +1,5 @@
-**# Introduction-to-Data-Science-Project-Anime-Recommendation-System**
-Introduction to Data Science Project: Anime Recommendation System
+# **Introduction-to-Data-Science-Project-Anime-Recommendation-System**
+The .ipynb has all the necessary information.
 
 **Havine trouble viewing the file?**
 
