@@ -1,8 +1,9 @@
 # **Introduction-to-Data-Science-Project-Anime-Recommendation-System**
 
 **Data Science Project:
-Recommendation System for Anime
-Group Members List:**
+Recommendation System for Anime**
+
+**Group Members List:**
 
 
 Muhammad Bilal Tahir F2018054042 (Group Leader)
